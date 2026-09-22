@@ -1,0 +1,10 @@
+variable "name" {}
+variable "resource_group_name" {}
+variable "location" {}
+variable "size" {}
+variable "admin_username" {}
+variable "admin_password" {}
+variable "publisher" {}
+variable "offer" {}
+variable "sku" {}
+variable "nic_name" {}
